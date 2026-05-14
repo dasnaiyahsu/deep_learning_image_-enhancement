@@ -42,7 +42,7 @@ Input (Buram/Hijau)  →  [Student Model]  →  Output (Jernih/Natural)
 
 | Kombinasi | Nama | Teacher | Student | Fokus |
 |-----------|------|---------|---------|-------|
-| **PRE-PROCESSING** | Annabelle Frederica Suryana | Data loading, depth map refinement, patch extraction, augmentation, tf.data pipeline |
+| **PRE-PROCESSING** | Annabelle Frederica Suryana | | | | | Data loading, depth map refinement, patch extraction, augmentation, tf.data pipeline |
 | **Combo 1** | Cheryl Eugene Saari | UGAN | GhostNet-UNet | Kualitas Visual |
 | **Combo 2** | Ernestine Danella Ong | FUnIE-GAN | MobileNetV3 | Kecepatan Ekstrem |
 | **Combo 3** | Stephanie Renata Panghudi | Water-Net | Shallow U-Net | Physics Learner |
