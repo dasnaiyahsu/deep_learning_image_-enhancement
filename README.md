@@ -42,11 +42,12 @@ Input (Buram/Hijau)  →  [Student Model]  →  Output (Jernih/Natural)
 
 | Kombinasi | Nama | Teacher | Student | Fokus |
 |-----------|------|---------|---------|-------|
-| **Combo 1** | Cheryl | UGAN | GhostNet-UNet | Kualitas Visual |
-| **Combo 2** | Ernestine | FUnIE-GAN | MobileNetV3 | Kecepatan Ekstrem |
-| **Combo 3** | Stephanie | Water-Net | Shallow U-Net | Physics Learner |
-| **Combo 4** | Dasnaiya | U-Transformer | MobileViT | Global Color Cast |
-| **Combo 5** | Dasnaiya | DeepSESR | Tiny-GAN | Ketajaman Objek |
+| **PRE-PROCESSING** | Annabelle Frederica Suryana | Data loading, depth map refinement, patch extraction, augmentation, tf.data pipeline |
+| **Combo 1** | Cheryl Eugene Saari | UGAN | GhostNet-UNet | Kualitas Visual |
+| **Combo 2** | Ernestine Danella Ong | FUnIE-GAN | MobileNetV3 | Kecepatan Ekstrem |
+| **Combo 3** | Stephanie Renata Panghudi | Water-Net | Shallow U-Net | Physics Learner |
+| **Combo 4** | Dasnaiya Hsu | U-Transformer | MobileViT | Global Color Cast |
+| **Combo 5** | Dasnaiya Hsu | DeepSESR | Tiny-GAN | Ketajaman Objek |
 
 ---
 
