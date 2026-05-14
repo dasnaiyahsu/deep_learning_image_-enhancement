@@ -209,13 +209,7 @@ BATCH_SIZE  = 4     # turunkan jika OOM
 
 ---
 
-## 📚 References
 
-- Islam, M. J., et al. (2020). *Fast Underwater Image Enhancement for Improved Visual Perception*. IEEE RA-L.
-- Yang, M., et al. (2015). *Underwater Image Enhancement Based on Conditional Generative Adversarial Network*. Signal Processing: Image Communication.
-- Han, K., et al. (2020). *GhostNet: More Features from Cheap Operations*. CVPR.
-- Mehta, S., et al. (2021). *MobileViT: Light-weight, General-purpose, and Mobile-friendly Vision Transformer*. ICLR.
-- Akkaynak, D., & Treibitz, T. (2019). *Sea-thru: A Method for Removing Water From Underwater Images*. CVPR.
 
 ---
 
